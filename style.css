@@ -1,0 +1,69 @@
+/*
+Theme Name: Auto Trader Theme
+Author: Oswald Prince
+Author URI: https://www.linkedin.com/in/oswaldpr/
+Description: Auto Trader Theme
+Version: 1.9
+*/
+
+@-ms-viewport     { width: device-width; }
+@-o-viewport      { width: device-width; }
+@viewport         { width: device-width; }
+
+body {
+    min-height: 100%;
+    font-size: 1.5em !important;
+    background-image: url(./assets/images/back.jpeg);
+    background-size: cover
+}
+
+#atpTheme{
+    background-color: #fff;
+    padding: 0px;
+}
+
+.navbar-fixed-top{
+    background-color: lightgray;
+}
+
+header {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2em;
+}
+
+footer {
+    background-color: lightgray;
+    color: black;
+}
+
+footer h5{
+    font-weight: 700;
+}
+
+.navbar-fixed-top ul,
+.navbar-fixed-top li,
+.social-network.social-circle,
+.social-network.social-circle li{
+    display: inline;
+    text-align: center;
+    padding: 2px ;
+    margin: 0;
+    list-style-type: none;
+}
+
+aside {
+    padding-left: 10px;
+    margin-left: 10px;
+    border-left: 1px solid lightgray;
+}
+
+aside ul,
+aside li {
+    list-style-type: none;
+}
+
+/* CSS for 404.php*/
+.error-template {padding: 40px 15px;text-align: center;}
+.error-actions {margin-top:15px;margin-bottom:15px;}
+.error-actions .btn { margin-right:10px; }
