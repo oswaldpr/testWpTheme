@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BENIN| ORTB" tvg-logo="http://vodpictures.ddns.net/picons/logos/benin.png" group-title="OS",BENIN| ORTB
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/85515
+#EXTINF:-1 tvg-id="" tvg-name="ORTB" tvg-logo="http://vodpictures.ddns.net/picons/logos/benin.png" group-title="OS",ORTB
+https://player.infomaniak.com?channel=69891&player=10535
+#EXTINF:-1 tvg-id="ca.LCN HD" tvg-name="CA| LCN" tvg-logo="http://vodpictures.ddns.net/picons/logos/lcn.png" group-title="OS",CA| LCN
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/20549
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR| FRANCE 24 HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/france24.png" group-title="OS",FR| FRANCE 24 HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/8310
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR| LCI HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/lci.png" group-title="OS",FR| LCI HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165666
+#EXTINF:-1 tvg-id="" tvg-name="FR| TV5 MONDE AFRIQUE" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/tv5monde.png" group-title="OS",FR| TV5 MONDE AFRIQUE
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/209734
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="FR| TRACE URBAN HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/traceurbanhd.png" group-title="OS",FR| TRACE URBAN HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/8250
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE NAIJA" tvg-logo="http://vodpictures.ddns.net/picons/logos/africanmusic.png" group-title="OS",MUSIC| TRACE NAIJA
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/85508
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE AFRICA" tvg-logo="http://vodpictures.ddns.net/picons/logos/africanmusic.png" group-title="OS",MUSIC| TRACE AFRICA
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/85511
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| HIT TV AFRICA" tvg-logo="http://vodpictures.ddns.net/picons/logos/africanmusic.png" group-title="OS",MUSIC| HIT TV AFRICA
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/85501
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="FR| MANGAS FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/mangas.png" group-title="OS",FR| MANGAS FHD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/8292
+#EXTINF:-1 tvg-id="" tvg-name="FR| TOM ET JERRY HD" tvg-logo="http://vodpictures.ddns.net/stalker_portal/misc/logos/120/1.png" group-title="OS",FR| TOM ET JERRY HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/168709
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR| NATIONAL GEO HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/natgeo.png" group-title="OS",FR| NATIONAL GEO HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165726
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="FR| VOYAGE HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/voyage.png" group-title="OS",FR| VOYAGE HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165745
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="FR| PLANETE+ FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/planeteplushd.png" group-title="OS",FR| PLANETE+ FHD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/8273
+#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="FR| PLANETE CI" tvg-logo="http://vodpictures.ddns.net/picons/logos/planetepluscihd.png" group-title="OS",FR| PLANETE CI
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/74814
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="FR| TRACE URBAN HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/traceurban.png" group-title="OS",FR| TRACE URBAN HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/167491
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="FR| MTV HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/mtv.png" group-title="OS",FR| MTV HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165708
+#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="FR| E! ENTERTAINMENT HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/eentertainmenthd.png" group-title="OS",FR| E! ENTERTAINMENT HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165788
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="FR| BET HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/bet.png" group-title="OS",FR| BET HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165718
+#EXTINF:-1 tvg-id="" tvg-name="FR| AFRICA24" tvg-logo="http://vodpictures.ddns.net/picons/logos/africa.png" group-title="OS",FR| AFRICA24
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/85649
+#EXTINF:-1 tvg-id="" tvg-name="FR| AFRICABLE" tvg-logo="http://vodpictures.ddns.net/picons/logos/africa.png" group-title="OS",FR| AFRICABLE
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/85645
+#EXTINF:-1 tvg-id="" tvg-name="TOG| TVT" tvg-logo="http://vodpictures.ddns.net/picons/logos/togo.png" group-title="OS",TOG| TVT
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/85621
+#EXTINF:-1 tvg-id="" tvg-name="COITED| RTI1" tvg-logo="http://vodpictures.ddns.net/picons/logos/coitedivoire.png" group-title="OS",COITED| RTI1
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/85671
+#EXTINF:-1 tvg-id="" tvg-name="COITED| RTI2" tvg-logo="http://vodpictures.ddns.net/picons/logos/coitedivoire.png" group-title="OS",COITED| RTI2
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/85670
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE MISIKI" tvg-logo="http://vodpictures.ddns.net/picons/logos/africanmusic.png" group-title="OS",MUSIC| TRACE MISIKI
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/85509
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| AFRO MUSIC MANDIGO" tvg-logo="http://vodpictures.ddns.net/picons/logos/africanmusic.png" group-title="OS",MUSIC| AFRO MUSIC MANDIGO
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/85496
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| AFRO MUSIC" tvg-logo="http://vodpictures.ddns.net/picons/logos/africanmusic.png" group-title="OS",MUSIC| AFRO MUSIC
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/85499
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| BLACK AFRICA" tvg-logo="http://vodpictures.ddns.net/picons/logos/africanmusic.png" group-title="OS",MUSIC| BLACK AFRICA
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/85505
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA CUISINE AFRICAINE" tvg-logo="http://vodpictures.ddns.net/stalker_portal/misc/logos/120/1.png" group-title="OS",FR| LA CUISINE AFRICAINE
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/211876
+#EXTINF:-1 tvg-id="AddikTV.ca" tvg-name="CA| ADDIK TV" tvg-logo="http://vodpictures.ddns.net/picons/logos/addiktv.png" group-title="OS",CA| ADDIK TV
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/20653
+#EXTINF:-1 tvg-id="CanalD.ca" tvg-name="CA| CANAL D" tvg-logo="http://vodpictures.ddns.net/picons/logos/canald.png" group-title="OS",CA| CANAL D
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/20639
+#EXTINF:-1 tvg-id="ca.CASA" tvg-name="CA| CASA" tvg-logo="http://vodpictures.ddns.net/picons/logos/casatv.png" group-title="OS",CA| CASA
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/20636
+#EXTINF:-1 tvg-id="ca.Z" tvg-name="CA| Z TELE" tvg-logo="http://vodpictures.ddns.net/picons/logos/ztele.jpg" group-title="OS",CA| Z TELE
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/20450
+#EXTINF:-1 tvg-id="ca.Zeste" tvg-name="CA| ZESTE" tvg-logo="http://vodpictures.ddns.net/picons/logos/zeste.jpg" group-title="OS",CA| ZESTE
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/20449
+#EXTINF:-1 tvg-id="ca.Evasion HD" tvg-name="CA| EVASION" tvg-logo="http://vodpictures.ddns.net/picons/logos/evasion.jpg" group-title="OS",CA| EVASION
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/20586
+#EXTINF:-1 tvg-id="Tf1.mu" tvg-name="FR| TF1 HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/tf1hd.png" group-title="OS",FR| TF1 HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165716
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR| TF1 SERIES FILMS HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/tf1seriesfilms.png" group-title="OS",FR| TF1 SERIES FILMS HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/38349
+#EXTINF:-1 tvg-id="ca.Super Ecran" tvg-name="CA| SUPER ECRAN 1" tvg-logo="http://vodpictures.ddns.net/picons/logos/superecran.png" group-title="OS",CA| SUPER ECRAN 1
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/20496
+#EXTINF:-1 tvg-id="SuperEcran2.ca" tvg-name="CA| SUPER ECRAN 2" tvg-logo="http://vodpictures.ddns.net/picons/logos/superecran.png" group-title="OS",CA| SUPER ECRAN 2
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/20495
+#EXTINF:-1 tvg-id="SuperEcran3.ca" tvg-name="CA| SUPER ECRAN 3" tvg-logo="http://vodpictures.ddns.net/picons/logos/superecran.png" group-title="OS",CA| SUPER ECRAN 3
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/20494
+#EXTINF:-1 tvg-id="SuperEcran4.ca" tvg-name="CA| SUPER ECRAN 4" tvg-logo="http://vodpictures.ddns.net/picons/logos/superecran.png" group-title="OS",CA| SUPER ECRAN 4
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/20493
+#EXTINF:-1 tvg-id="SeriesPlus.ca" tvg-name="CA| SERIES PLUS" tvg-logo="http://vodpictures.ddns.net/picons/logos/series.jpg" group-title="OS",CA| SERIES PLUS
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/20512
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="FR| SYFY HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/syfy.png" group-title="OS",FR| SYFY HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165715
+#EXTINF:-1 tvg-id="fr.TV5MONDE Europe" tvg-name="FR| TV5 MONDE EUROPE HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/tv5mondeeurope.png" group-title="OS",FR| TV5 MONDE EUROPE HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/8247
+#EXTINF:-1 tvg-id="fr.TV5MONDE Europe" tvg-name="FR| TV5 MONDE INFO HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/tv5monde.png" group-title="OS",FR| TV5 MONDE INFO HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/58666
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR| FRANCE 2 HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/france2.png" group-title="OS",FR| FRANCE 2 HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165739
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR| FRANCE 3 HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/france3.png" group-title="OS",FR| FRANCE 3 HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165721
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR| FRANCE 4 HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/france4.png" group-title="OS",FR| FRANCE 4 HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165738
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR| FRANCE 5 HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/france5.png" group-title="OS",FR| FRANCE 5 HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165737
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="FR| FRANCE O HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/franceo.png" group-title="OS",FR| FRANCE O HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/74835
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="FR| 13 EME RUE HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/13thstreet.png" group-title="OS",FR| 13 EME RUE HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/58664
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR| CANAL+ HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/canalplus.png" group-title="OS",FR| CANAL+ HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165700
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="FR| CANAL+ CINEMA" tvg-logo="http://vodpictures.ddns.net/picons/logos/canalpluscinema.png" group-title="OS",FR| CANAL+ CINEMA
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/74865
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="FR| CANAL+ DECALE HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/canalplusdecale.png" group-title="OS",FR| CANAL+ DECALE HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165698
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="FR| CANAL+ FAMILY HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/canalplusfamily.png" group-title="OS",FR| CANAL+ FAMILY HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165699
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="FR| CANAL+ SERIES HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/canalplusseries.png" group-title="OS",FR| CANAL+ SERIES HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165701
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR| CANAL+ SPORT HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/canalplussport.png" group-title="OS",FR| CANAL+ SPORT HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165702
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="FR| CINE+ PREMIER HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/cinepluspremier.png" group-title="OS",FR| CINE+ PREMIER HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165704
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="FR| CINE+ FRISSON HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/cineplusfrisson.png" group-title="OS",FR| CINE+ FRISSON HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165720
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="FR| CINE+ EMOTION HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/cineplusemotion.png" group-title="OS",FR| CINE+ EMOTION HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165703
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="FR| CINE+ CLUB HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/cineplusclub.png" group-title="OS",FR| CINE+ CLUB HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/165779
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="FR| CINE+ FAMIZ FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/cineplusfamiz.png" group-title="OS",FR| CINE+ FAMIZ FHD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/8327
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="FR| CINE+ CLASSIC FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/cineplusclassic.png" group-title="OS",FR| CINE+ CLASSIC FHD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/8330
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA CUISINE INTERNATIONAL 1 HD" tvg-logo="http://vodpictures.ddns.net/stalker_portal/misc/logos/120/1.png" group-title="OS",FR| LA CUISINE INTERNATIONAL 1 HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/211873
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA CUISINE INTERNATIONAL 2 HD" tvg-logo="http://vodpictures.ddns.net/stalker_portal/misc/logos/120/1.png" group-title="OS",FR| LA CUISINE INTERNATIONAL 2 HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/211874
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA CUISINE INTERNATIONAL 3 HD" tvg-logo="http://vodpictures.ddns.net/stalker_portal/misc/logos/120/1.png" group-title="OS",FR| LA CUISINE INTERNATIONAL 3 HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/211875
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA CUISINE MAROCAINE 1 HD" tvg-logo="http://vodpictures.ddns.net/stalker_portal/misc/logos/120/1.png" group-title="OS",FR| LA CUISINE MAROCAINE 1 HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/211879
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA CUISINE MAROCAINE 2 HD" tvg-logo="http://vodpictures.ddns.net/stalker_portal/misc/logos/120/1.png" group-title="OS",FR| LA CUISINE MAROCAINE 2 HD
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/211898
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA CUISINE JAPONAISE" tvg-logo="http://vodpictures.ddns.net/stalker_portal/misc/logos/120/1.png" group-title="OS",FR| LA CUISINE JAPONAISE
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/211878
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA CUISINE INDIANE" tvg-logo="http://vodpictures.ddns.net/stalker_portal/misc/logos/120/1.png" group-title="OS",FR| LA CUISINE INDIANE
+http://line.iptvwings.com:8000/41f39c583d/479b1da420/211877
