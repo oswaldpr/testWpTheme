@@ -5,6 +5,8 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85515
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20549
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="FR| TV5 MONDE HD" tvg-logo="http://logo.protv.cc/picons/logos/tv5mondehd.png" group-title="OS",FR| TV5 MONDE HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507400
+#EXTINF:-1 tvg-id="" tvg-name="FR| TV5 MONDE AFRIQUE" tvg-logo="http://logo.protv.cc/picons/logos/tv5mondeafrique.png" group-title="OS",FR| TV5 MONDE AFRIQUE
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/209734
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="AFR| FRANCE 24" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="OS",AFR| FRANCE 24
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355942
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="AFR| LCI" tvg-logo="http://logo.protv.cc/picons/logos/lci.png" group-title="OS",AFR| LCI
