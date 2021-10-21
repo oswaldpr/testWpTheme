@@ -7,9 +7,9 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20549
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/209734
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="FR| TV5 MONDE HD" tvg-logo="http://logo.protv.cc/picons/logos/tv5mondehd.png" group-title="OS",FR| TV5 MONDE HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507400
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="AFR| FRANCE 24" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="OS",AFR| FRANCE 24
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR| FRANCE 24" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="OS",FR| FRANCE 24
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355942
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="AFR| LCI" tvg-logo="http://logo.protv.cc/picons/logos/lci.png" group-title="OS",AFR| LCI
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR| LCI" tvg-logo="http://logo.protv.cc/picons/logos/lci.png" group-title="OS",FR| LCI
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355948
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR| TF1 HD" tvg-logo="http://logo.protv.cc/picons/logos/tf1hd.png" group-title="OS",FR| TF1 HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507471
@@ -23,7 +23,7 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355992
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85671
 #EXTINF:-1 tvg-id="" tvg-name="COITED| RTI2" tvg-logo="http://logo.protv.cc/picons/logos/rti2.png" group-title="OS",COITED| RTI2
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85670
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="FR| TRACE URBAN HD" tvg-logo="http://logo.protv.cc/picons/logos/traceurbanhd.png" group-title="OS",FR| TRACE URBAN HD
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="MUSIC| TRACE URBAN HD" tvg-logo="http://logo.protv.cc/picons/logos/traceurbanhd.png" group-title="OS",MUSIC| TRACE URBAN HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507288
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE NAIJA" tvg-logo="http://logo.protv.cc/picons/logos/TRACE-NAIJA.png" group-title="OS",MUSIC| TRACE NAIJA
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85508
@@ -41,6 +41,14 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507499
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507504
 #EXTINF:-1 tvg-id="" tvg-name="FR| TOM ET JERRY HD" tvg-logo="http://logo.protv.cc/picons/logos/TOM-AND-JERRY.jpg" group-title="OS",FR| TOM ET JERRY HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519223
+#EXTINF:-1 tvg-id="" tvg-name="FR| ASTERIX ET OBELIX" tvg-logo="http://logo.protv.cc/picons/logos/ASTERIX-ET-OBELIX.jpeg" group-title="OS",FR| ASTERIX ET OBELIX
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519222
+#EXTINF:-1 tvg-id="" tvg-name="FR| LES DALTONS" tvg-logo="http://logo.protv.cc/picons/logos/LES-DALTONS.jpeg" group-title="OS",FR| LES DALTONS
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519217
+#EXTINF:-1 tvg-id="" tvg-name="FR| LOONEY TUNES" tvg-logo="http://logo.protv.cc/picons/logos/looneytunes.jpg" group-title="OS",FR| LOONEY TUNES
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519216
+#EXTINF:-1 tvg-id="" tvg-name="FR| MADAGASCAR" tvg-logo="http://logo.protv.cc/picons/logos/MADAGASCAR-KIDSFR.png" group-title="OS",FR| MADAGASCAR
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519215
 #EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-name="FR| MTV HITS HD" tvg-logo="http://logo.protv.cc/picons/logos/mtvhitshdfrance.png" group-title="OS",FR| MTV HITS HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507299
 #EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="FR| E! ENTERTAINMENT HD" tvg-logo="http://logo.protv.cc/picons/logos/E!-ENTERTAINMENT-HD.jpeg" group-title="OS",FR| E! ENTERTAINMENT HD
@@ -91,16 +99,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/526150
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/526149
 #EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LQ" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="OS",FR| CANAL+ LQ
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507624
-#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="FR| CANAL+ CINEMA 4K" tvg-logo="http://logo.protv.cc/picons/logos/canalpluscinema.png" group-title="OS",FR| CANAL+ CINEMA 4K
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/526134
-#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="FR| CANAL+ DECALE 4K" tvg-logo="http://logo.protv.cc/picons/logos/canalplusdecale.png" group-title="OS",FR| CANAL+ DECALE 4K
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/526133
-#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="FR| CANAL+ FAMILY 4K" tvg-logo="http://logo.protv.cc/picons/logos/canalplusfamilyhd.png" group-title="OS",FR| CANAL+ FAMILY 4K
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/526132
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="FR| CANAL+ SERIES 4K" tvg-logo="http://logo.protv.cc/picons/logos/canalplusseries.png" group-title="OS",FR| CANAL+ SERIES 4K
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/526131
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR| CANAL+ SPORT 4K" tvg-logo="http://logo.protv.cc/picons/logos/canalplussporthd.png" group-title="OS",FR| CANAL+ SPORT 4K
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/526130
 #EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 1" tvg-logo="http://logo.protv.cc/picons/logos/canalplussporthd.png" group-title="OS",AFR| CANAL+ SPORT 1
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355923
 #EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 2" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport2hd.png" group-title="OS",AFR| CANAL+ SPORT 2
@@ -175,8 +173,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20656
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20655
 #EXTINF:-1 tvg-id="ca.A&E Canada HD" tvg-name="CA| A & E" tvg-logo="http://logo.protv.cc/picons/logos/aande.png" group-title="CANADA",CA| A & E
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20658
-#EXTINF:-1 tvg-id="AddikTV.ca" tvg-name="CA| ADDIK TV" tvg-logo="http://logo.protv.cc/picons/logos/addiktv.png" group-title="CANADA",CA| ADDIK TV
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20653
 #EXTINF:-1 tvg-id="ca.American Heroes Channel" tvg-name="CA| AHC" tvg-logo="http://logo.protv.cc/picons/logos/ahc.png" group-title="CANADA",CA| AHC
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20652
 #EXTINF:-1 tvg-id="ca.AMC - Canada HD" tvg-name="CA| AMC" tvg-logo="http://logo.protv.cc/picons/logos/amc.png" group-title="CANADA",CA| AMC
@@ -199,8 +195,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20642
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20641
 #EXTINF:-1 tvg-id="ca.Bravo Canada" tvg-name="CA| BRAVO" tvg-logo="http://logo.protv.cc/picons/logos/bravo.jpg" group-title="CANADA",CA| BRAVO
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20640
-#EXTINF:-1 tvg-id="CanalD.ca" tvg-name="CA| CANAL D" tvg-logo="http://logo.protv.cc/picons/logos/canald.png" group-title="CANADA",CA| CANAL D
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20639
 #EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="CA| CANAL SAVOIR" tvg-logo="http://logo.protv.cc/picons/logos/canalsavoir.png" group-title="CANADA",CA| CANAL SAVOIR
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20638
 #EXTINF:-1 tvg-id="ca.Cartoon Network Canada" tvg-name="CA| CARTOON NETWORK" tvg-logo="http://logo.protv.cc/picons/logos/cartoonnetwork.png" group-title="CANADA",CA| CARTOON NETWORK
@@ -285,8 +279,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20591
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20590
 #EXTINF:-1 tvg-id="EEntertainment.ca" tvg-name="CA| E! ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/logos/eentertainment.png" group-title="CANADA",CA| E! ENTERTAINMENT
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20589
-#EXTINF:-1 tvg-id="ca.Evasion HD" tvg-name="CA| EVASION" tvg-logo="http://logo.protv.cc/picons/logos/evasion.jpg" group-title="CANADA",CA| EVASION
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20586
 #EXTINF:-1 tvg-id="ca.Family CHRGD HD" tvg-name="CA| FAMILY CHRGD" tvg-logo="http://logo.protv.cc/picons/logos/family.gif" group-title="CANADA",CA| FAMILY CHRGD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20585
 #EXTINF:-1 tvg-id="ca.Family Channel Canada - East" tvg-name="CA| FAMILY EAST" tvg-logo="http://logo.protv.cc/picons/logos/family.gif" group-title="CANADA",CA| FAMILY EAST
@@ -351,8 +343,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20553
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20551
 #EXTINF:-1 tvg-id="ca.KTLA Los Angeles, CA" tvg-name="CA| KTLA" tvg-logo="http://logo.protv.cc/picons/logos/ktla.png" group-title="CANADA",CA| KTLA
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20550
-#EXTINF:-1 tvg-id="ca.LCN HD" tvg-name="CA| LCN" tvg-logo="http://logo.protv.cc/picons/logos/lcn.png" group-title="CANADA",CA| LCN
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20549
 #EXTINF:-1 tvg-id="LifetimeTV.ca" tvg-name="CA| LIFETIME" tvg-logo="http://logo.protv.cc/picons/logos/lifetime.png" group-title="CANADA",CA| LIFETIME
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20547
 #EXTINF:-1 tvg-id="Makeful.ca" tvg-name="CA| MAKEFUL" tvg-logo="http://logo.protv.cc/picons/logos/makeful.png" group-title="CANADA",CA| MAKEFUL
@@ -443,14 +433,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20499
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20498
 #EXTINF:-1 tvg-id="ca.Super Channel Vault" tvg-name="CA| SUPER CHANNEL VAULT" tvg-logo="http://logo.protv.cc/picons/logos/superchannel.png" group-title="CANADA",CA| SUPER CHANNEL VAULT
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20497
-#EXTINF:-1 tvg-id="ca.Super Ecran" tvg-name="CA| SUPER ECRAN 1" tvg-logo="http://logo.protv.cc/picons/logos/superecran.png" group-title="CANADA",CA| SUPER ECRAN 1
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20496
-#EXTINF:-1 tvg-id="SuperEcran2.ca" tvg-name="CA| SUPER ECRAN 2" tvg-logo="http://logo.protv.cc/picons/logos/superecran.png" group-title="CANADA",CA| SUPER ECRAN 2
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20495
-#EXTINF:-1 tvg-id="SuperEcran3.ca" tvg-name="CA| SUPER ECRAN 3" tvg-logo="http://logo.protv.cc/picons/logos/superecran.png" group-title="CANADA",CA| SUPER ECRAN 3
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20494
-#EXTINF:-1 tvg-id="SuperEcran4.ca" tvg-name="CA| SUPER ECRAN 4" tvg-logo="http://logo.protv.cc/picons/logos/superecran.png" group-title="CANADA",CA| SUPER ECRAN 4
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20493
 #EXTINF:-1 tvg-id="ca.Turner Classic Movies Canada" tvg-name="CA| TCM" tvg-logo="http://logo.protv.cc/picons/logos/tcm.png" group-title="CANADA",CA| TCM
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20492
 #EXTINF:-1 tvg-id="ca.Tele-Quebec (CIVM) Montreal HD" tvg-name="CA| TELE QUEBEC" tvg-logo="http://logo.protv.cc/picons/logos/telequebec.jpg" group-title="CANADA",CA| TELE QUEBEC
@@ -495,10 +477,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20454
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20453
 #EXTINF:-1 tvg-id="ca.YTV (Youth Television) - East DV" tvg-name="CA| YTV" tvg-logo="http://logo.protv.cc/picons/logos/ytve.jpg" group-title="CANADA",CA| YTV
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20452
-#EXTINF:-1 tvg-id="ca.Z" tvg-name="CA| Z TELE" tvg-logo="http://logo.protv.cc/picons/logos/ztele.jpg" group-title="CANADA",CA| Z TELE
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20450
-#EXTINF:-1 tvg-id="ca.Zeste" tvg-name="CA| ZESTE" tvg-logo="http://logo.protv.cc/picons/logos/zeste.jpg" group-title="CANADA",CA| ZESTE
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/20449
 #EXTINF:-1 tvg-id="ca.CBC (CBRT) Calgary, AB" tvg-name="CA| CBC CALGARY" tvg-logo="http://logo.protv.cc/picons/logos/cbc.png" group-title="CANADA",CA| CBC CALGARY
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/52594
 #EXTINF:-1 tvg-id="ca.CITY Calgary, AB HD" tvg-name="CA| CITY CALGARY" tvg-logo="http://logo.protv.cc/picons/logos/city.jpg" group-title="CANADA",CA| CITY CALGARY
@@ -529,30 +507,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/52576
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/52575
 #EXTINF:-1 tvg-id="" tvg-name="SA| ZEE WORLD" tvg-logo="" group-title="AFR| DSTV PREMIUM",SA| ZEE WORLD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/716049
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 1" tvg-logo="http://logo.protv.cc/picons/logos/canalplussporthd.png" group-title="AFR| CANAL+",AFR| CANAL+ SPORT 1
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355923
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 2" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport2hd.png" group-title="AFR| CANAL+",AFR| CANAL+ SPORT 2
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355924
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 3" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport3hd.png" group-title="AFR| CANAL+",AFR| CANAL+ SPORT 3
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355925
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 4" tvg-logo="http://logo.protv.cc/picons/logos/canalplussport4hd.png" group-title="AFR| CANAL+",AFR| CANAL+ SPORT 4
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355926
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 5" tvg-logo="http://logo.protv.cc/picons/logos/canalplussporthd.png" group-title="AFR| CANAL+",AFR| CANAL+ SPORT 5
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355927
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ ACTION OUEST" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="AFR| CANAL+",AFR| CANAL+ ACTION OUEST
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355916
-#EXTINF:-1 tvg-id="CanalPlusCentre.bj" tvg-name="AFR| CANAL+ CENTR" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="AFR| CANAL+",AFR| CANAL+ CENTR
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355917
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ CINEMA OUEST" tvg-logo="http://logo.protv.cc/picons/logos/canalpluscinema.png" group-title="AFR| CANAL+",AFR| CANAL+ CINEMA OUEST
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355918
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ COMEDIE OUEST" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="AFR| CANAL+",AFR| CANAL+ COMEDIE OUEST
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355919
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ ELLES OUEST" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="AFR| CANAL+",AFR| CANAL+ ELLES OUEST
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355920
-#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ FAMILY OUEST" tvg-logo="http://logo.protv.cc/picons/logos/canalplusfamily.png" group-title="AFR| CANAL+",AFR| CANAL+ FAMILY OUEST
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355921
-#EXTINF:-1 tvg-id="CanalPlusQuest.bj" tvg-name="AFR| CANAL+ OUEST" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="AFR| CANAL+",AFR| CANAL+ OUEST
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355922
 #EXTINF:-1 tvg-id="" tvg-name="AFR| A PLUS HD" tvg-logo="http://logo.protv.cc/picons/logos/aplustv.png" group-title="AFR| CANAL+",AFR| A PLUS HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355903
 #EXTINF:-1 tvg-id="" tvg-name="AFR| ALBAYANE" tvg-logo="" group-title="AFR| CANAL+",AFR| ALBAYANE
@@ -575,8 +529,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/362761
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355905
 #EXTINF:-1 tvg-id="Action.fr" tvg-name="AFR| ACTION" tvg-logo="http://logo.protv.cc/picons/logos/action.png" group-title="AFR| CANAL+",AFR| ACTION
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355906
-#EXTINF:-1 tvg-id="" tvg-name="AFR| AFRICABLE" tvg-logo="http://logo.protv.cc/picons/logos/AFRICABLE-TV.png" group-title="AFR| CANAL+",AFR| AFRICABLE
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355907
 #EXTINF:-1 tvg-id="Animaux.fr" tvg-name="AFR| ANIMAUX" tvg-logo="http://logo.protv.cc/picons/logos/animaux.png" group-title="AFR| CANAL+",AFR| ANIMAUX
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355908
 #EXTINF:-1 tvg-id="" tvg-name="AFR| ANTENNEA" tvg-logo="http://logo.protv.cc/picons/logos/antennatv.png" group-title="AFR| CANAL+",AFR| ANTENNEA
@@ -607,8 +559,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355937
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355938
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="AFR| FRANCE 2" tvg-logo="http://logo.protv.cc/picons/logos/france2.png" group-title="AFR| CANAL+",AFR| FRANCE 2
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355941
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="AFR| FRANCE 24" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="AFR| CANAL+",AFR| FRANCE 24
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355942
 #EXTINF:-1 tvg-id="" tvg-name="AFR| GABON TV" tvg-logo="http://logo.protv.cc/picons/logos/GABON-TV.jpg" group-title="AFR| CANAL+",AFR| GABON TV
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355943
 #EXTINF:-1 tvg-id="GameOne.fr" tvg-name="AFR| GAME ONE" tvg-logo="http://logo.protv.cc/picons/logos/gameone.png" group-title="AFR| CANAL+",AFR| GAME ONE
@@ -617,8 +567,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355944
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355945
 #EXTINF:-1 tvg-id="JONE.fr" tvg-name="AFR| J-ONE" tvg-logo="http://logo.protv.cc/picons/logos/jone.png" group-title="AFR| CANAL+",AFR| J-ONE
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355947
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="AFR| LCI" tvg-logo="http://logo.protv.cc/picons/logos/lci.png" group-title="AFR| CANAL+",AFR| LCI
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355948
 #EXTINF:-1 tvg-id="" tvg-name="AFR| M6 INTERNATIONAL" tvg-logo="http://logo.protv.cc/picons/logos/m6.png" group-title="AFR| CANAL+",AFR| M6 INTERNATIONAL
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355950
 #EXTINF:-1 tvg-id="Mangas.fr" tvg-name="AFR| MANGAS" tvg-logo="http://logo.protv.cc/picons/logos/mangas.png" group-title="AFR| CANAL+",AFR| MANGAS
@@ -673,8 +621,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355989
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355990
 #EXTINF:-1 tvg-id="" tvg-name="AFR| TV5" tvg-logo="http://logo.protv.cc/picons/logos/tv5.png" group-title="AFR| CANAL+",AFR| TV5
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355991
-#EXTINF:-1 tvg-id="" tvg-name="AFR| TVT" tvg-logo="http://logo.protv.cc/picons/logos/TVT.jpeg" group-title="AFR| CANAL+",AFR| TVT
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355992
 #EXTINF:-1 tvg-id="" tvg-name="GEN| TV5 MONDE" tvg-logo="http://logo.protv.cc/picons/logos/tv5mondeafrique.png" group-title="AFR| GENERAL",GEN| TV5 MONDE
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85641
 #EXTINF:-1 tvg-id="" tvg-name="GEN| NOVELAS TV" tvg-logo="http://logo.protv.cc/picons/logos/novelastv.png" group-title="AFR| GENERAL",GEN| NOVELAS TV
@@ -689,8 +635,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85646
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85647
 #EXTINF:-1 tvg-id="" tvg-name="GEN| ARISE NEWS" tvg-logo="http://logo.protv.cc/picons/logos/ARISE-NEWS.jpg" group-title="AFR| GENERAL",GEN| ARISE NEWS
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85648
-#EXTINF:-1 tvg-id="" tvg-name="GEN| AFRICA24" tvg-logo="http://logo.protv.cc/picons/logos/africa24.png" group-title="AFR| GENERAL",GEN| AFRICA24
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85649
 #EXTINF:-1 tvg-id="" tvg-name="NIG| A+ HD" tvg-logo="http://logo.protv.cc/picons/logos/aplus.png" group-title="AFR| GENERAL",NIG| A+ HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85610
 #EXTINF:-1 tvg-id="" tvg-name="NIG| A+ INTERNATIONAL" tvg-logo="http://logo.protv.cc/picons/logos/aplus.png" group-title="AFR| GENERAL",NIG| A+ INTERNATIONAL
@@ -763,8 +707,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/139651
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/139652
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC| AFRO MUSIC MANDIGO" tvg-logo="http://logo.protv.cc/picons/logos/afromusic.png" group-title="AFR| GENERAL",MUSIC| AFRO MUSIC MANDIGO
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85496
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| AFRO MUSIC" tvg-logo="http://logo.protv.cc/picons/logos/afromusic.png" group-title="AFR| GENERAL",MUSIC| AFRO MUSIC
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85499
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC| DBMTV" tvg-logo="http://logo.protv.cc/picons/logos/DIGITAL-BLACK-MUSIC.png" group-title="AFR| GENERAL",MUSIC| DBMTV
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85500
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC| HIT TV AFRICA" tvg-logo="http://logo.protv.cc/picons/logos/HIT-TV-AFRICA.jpeg" group-title="AFR| GENERAL",MUSIC| HIT TV AFRICA
@@ -779,14 +721,8 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85505
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85506
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE TROPICAL" tvg-logo="http://logo.protv.cc/picons/logos/tracetropical.png" group-title="AFR| GENERAL",MUSIC| TRACE TROPICAL
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85507
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE NAIJA" tvg-logo="http://logo.protv.cc/picons/logos/TRACE-NAIJA.png" group-title="AFR| GENERAL",MUSIC| TRACE NAIJA
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85508
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE MISIKI" tvg-logo="http://logo.protv.cc/picons/logos/TRACE-MISIKI.png" group-title="AFR| GENERAL",MUSIC| TRACE MISIKI
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85509
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE TOCA" tvg-logo="http://logo.protv.cc/picons/logos/africanmusic.png" group-title="AFR| GENERAL",MUSIC| TRACE TOCA
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85510
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE AFRICA" tvg-logo="http://logo.protv.cc/picons/logos/africanmusic.png" group-title="AFR| GENERAL",MUSIC| TRACE AFRICA
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85511
 #EXTINF:-1 tvg-id="" tvg-name="ZAM| ZNBC" tvg-logo="http://logo.protv.cc/picons/logos/ZNBC-TV.jpeg" group-title="AFR| GENERAL",ZAM| ZNBC
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/695076
 #EXTINF:-1 tvg-id="" tvg-name="ZAM| CAMNET" tvg-logo="http://logo.protv.cc/picons/logos/CAMNET.png" group-title="AFR| GENERAL",ZAM| CAMNET
@@ -903,8 +839,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/583218
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85513
 #EXTINF:-1 tvg-id="" tvg-name="MALI| RTB" tvg-logo="http://logo.protv.cc/picons/logos/rtb.png" group-title="AFR| GENERAL",MALI| RTB
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85514
-#EXTINF:-1 tvg-id="" tvg-name="MALI| ORTB" tvg-logo="http://logo.protv.cc/picons/logos/ortb.png" group-title="AFR| GENERAL",MALI| ORTB
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85515
 #EXTINF:-1 tvg-id="" tvg-name="MALI| ORTM" tvg-logo="http://logo.protv.cc/picons/logos/ortm.png" group-title="AFR| GENERAL",MALI| ORTM
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85516
 #EXTINF:-1 tvg-id="" tvg-name="MALI| CHERIFLA" tvg-logo="http://logo.protv.cc/picons/logos/cheriflatv.png" group-title="AFR| GENERAL",MALI| CHERIFLA
@@ -1145,8 +1079,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/209730
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/209732
 #EXTINF:-1 tvg-id="" tvg-name="UGA| CCTV 4" tvg-logo="http://logo.protv.cc/picons/logos/cctv4.png" group-title="AFR| GENERAL",UGA| CCTV 4
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/209733
-#EXTINF:-1 tvg-id="" tvg-name="UGA| TV5 MONDE AFRIQUE" tvg-logo="http://logo.protv.cc/picons/logos/tv5mondeafrique.png" group-title="AFR| GENERAL",UGA| TV5 MONDE AFRIQUE
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/209734
 #EXTINF:-1 tvg-id="" tvg-name="UGA| SALT TV" tvg-logo="http://logo.protv.cc/picons/logos/SALT-TV.png" group-title="AFR| GENERAL",UGA| SALT TV
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/192365
 #EXTINF:-1 tvg-id="" tvg-name="UGA| SPARK TV" tvg-logo="http://logo.protv.cc/picons/logos/SPARK-TV.png" group-title="AFR| GENERAL",UGA| SPARK TV
@@ -1197,10 +1129,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/157901
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85831
 #EXTINF:-1 tvg-id="" tvg-name="COITED| NTV COTE D'IVOIRE" tvg-logo="http://logo.protv.cc/picons/logos/NTV-COTE-DIVOIRE.jpeg" group-title="AFR| GENERAL",COITED| NTV COTE D'IVOIRE
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/441047
-#EXTINF:-1 tvg-id="" tvg-name="COITED| RTI1" tvg-logo="http://logo.protv.cc/picons/logos/rti1.png" group-title="AFR| GENERAL",COITED| RTI1
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85671
-#EXTINF:-1 tvg-id="" tvg-name="COITED| RTI2" tvg-logo="http://logo.protv.cc/picons/logos/rti2.png" group-title="AFR| GENERAL",COITED| RTI2
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85670
 #EXTINF:-1 tvg-id="" tvg-name="COITED| LA 3" tvg-logo="http://logo.protv.cc/picons/logos/la31.png" group-title="AFR| GENERAL",COITED| LA 3
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/537015
 #EXTINF:-1 tvg-id="" tvg-name="MOZ| TVM2" tvg-logo="http://logo.protv.cc/picons/logos/tvm2.png" group-title="AFR| GENERAL",MOZ| TVM2
@@ -1745,16 +1673,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/241954
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/241978
 #EXTINF:-1 tvg-id="MzansiWethu.za" tvg-name="SA| MZANSI WETHU" tvg-logo="http://logo.protv.cc/picons/logos/MZANSI-WETHU.png" group-title="AFR| DSTV PREMIUM",SA| MZANSI WETHU
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/583219
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR| TF1 4K" tvg-logo="http://logo.protv.cc/picons/logos/tf1.png" group-title="FR| FRANCE 4K",FR| TF1 4K
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/526153
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR| FRANCE 2 4K" tvg-logo="http://logo.protv.cc/picons/logos/france2hd.png" group-title="FR| FRANCE 4K",FR| FRANCE 2 4K
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/526152
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR| FRANCE 3 4K" tvg-logo="http://logo.protv.cc/picons/logos/france3.png" group-title="FR| FRANCE 4K",FR| FRANCE 3 4K
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/526151
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR| FRANCE 4 4K" tvg-logo="http://logo.protv.cc/picons/logos/france4.png" group-title="FR| FRANCE 4K",FR| FRANCE 4 4K
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/526150
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR| FRANCE 5 4K" tvg-logo="http://logo.protv.cc/picons/logos/france5.png" group-title="FR| FRANCE 4K",FR| FRANCE 5 4K
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/526149
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="FR| M6 4K" tvg-logo="http://logo.protv.cc/picons/logos/m6hd.png" group-title="FR| FRANCE 4K",FR| M6 4K
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/526148
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR| ARTE 4K" tvg-logo="http://logo.protv.cc/picons/logos/artehd.png" group-title="FR| FRANCE 4K",FR| ARTE 4K
@@ -1873,18 +1791,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506610
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506609
 #EXTINF:-1 tvg-id="" tvg-name="FR| DRIVE-IN-MOVIE CH FHD" tvg-logo="http://logo.protv.cc/picons/logos/driveinchannel.png" group-title="FR| FRANCE FHD",FR| DRIVE-IN-MOVIE CH FHD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506608
-#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="FR| CINE+ PREMIER FHD" tvg-logo="http://logo.protv.cc/picons/logos/cinepluspremier.png" group-title="FR| FRANCE FHD",FR| CINE+ PREMIER FHD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506607
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="FR| CINE+ FRISSON FHD" tvg-logo="http://logo.protv.cc/picons/logos/cineplusfrisson.png" group-title="FR| FRANCE FHD",FR| CINE+ FRISSON FHD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506606
-#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="FR| CINE+ FAMIZ FHD" tvg-logo="http://logo.protv.cc/picons/logos/cineplusfamiz.png" group-title="FR| FRANCE FHD",FR| CINE+ FAMIZ FHD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506605
-#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="FR| CINE+ EMOTION FHD" tvg-logo="http://logo.protv.cc/picons/logos/cineplusemotion.png" group-title="FR| FRANCE FHD",FR| CINE+ EMOTION FHD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506604
-#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="FR| CINE+ CLUB FHD" tvg-logo="http://logo.protv.cc/picons/logos/cineplusclub.png" group-title="FR| FRANCE FHD",FR| CINE+ CLUB FHD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506603
-#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="FR| CINE+ CLASSIC FHD" tvg-logo="http://logo.protv.cc/picons/logos/cineplusclassic.png" group-title="FR| FRANCE FHD",FR| CINE+ CLASSIC FHD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506602
 #EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="FR| OCS MAX FHD" tvg-logo="http://logo.protv.cc/picons/logos/ocsmax.png" group-title="FR| FRANCE FHD",FR| OCS MAX FHD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506601
 #EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="FR| OCS GÉANTS FHD" tvg-logo="http://logo.protv.cc/picons/logos/ocsgeants.png" group-title="FR| FRANCE FHD",FR| OCS GÉANTS FHD
@@ -2045,8 +1951,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506538
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506537
 #EXTINF:-1 tvg-id="" tvg-name="FR| SPORT EN FRANCE FHD" tvg-logo="http://logo.protv.cc/picons/logos/sportenfrance.png" group-title="FR| FRANCE FHD",FR| SPORT EN FRANCE FHD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506536
-#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="FR| PLANETE+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/planeteplus.png" group-title="FR| FRANCE FHD",FR| PLANETE+ FHD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506535
 #EXTINF:-1 tvg-id="PlanetePlusAandE.mu" tvg-name="FR| PLANETE+ A&E FHD" tvg-logo="http://logo.protv.cc/picons/logos/planeteplusaventureexperience.png" group-title="FR| FRANCE FHD",FR| PLANETE+ A&E FHD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506534
 #EXTINF:-1 tvg-id="PlanetePlusCi.mu" tvg-name="FR| PLANETE+ CI FHD" tvg-logo="http://logo.protv.cc/picons/logos/planetepluscrimeinvestigation.png" group-title="FR| FRANCE FHD",FR| PLANETE+ CI FHD
@@ -2055,8 +1959,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506533
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506532
 #EXTINF:-1 tvg-id="Museum.fr" tvg-name="FR| MUSEUM FHD" tvg-logo="http://logo.protv.cc/picons/logos/museum.png" group-title="FR| FRANCE FHD",FR| MUSEUM FHD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506530
-#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR| NATIONAL GEO FHD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographichd.png" group-title="FR| FRANCE FHD",FR| NATIONAL GEO FHD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506529
 #EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="FR| NAT GEO WILD FHD" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="FR| FRANCE FHD",FR| NAT GEO WILD FHD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506528
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="FR| USHUAÏA TV FHD" tvg-logo="http://logo.protv.cc/picons/logos/ushuaiatv.png" group-title="FR| FRANCE FHD",FR| USHUAÏA TV FHD
@@ -2155,8 +2057,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506481
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506482
 #EXTINF:-1 tvg-id="Trek.fr" tvg-name="FR| TREK FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/107.png" group-title="FR| FRANCE FHD",FR| TREK FHD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/667909
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR| TF1 HD" tvg-logo="http://logo.protv.cc/picons/logos/tf1hd.png" group-title="FR| FRANCE HD",FR| TF1 HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507471
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="FR| FRANCE 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/france2hd.png" group-title="FR| FRANCE HD",FR| FRANCE 2 HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507470
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="FR| FRANCE3 HD" tvg-logo="http://logo.protv.cc/picons/logos/france3hd.png" group-title="FR| FRANCE HD",FR| FRANCE3 HD
@@ -2277,8 +2177,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507418
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507417
 #EXTINF:-1 tvg-id="MTV.fr" tvg-name="FR| MTV HD" tvg-logo="http://logo.protv.cc/picons/logos/mtvhdfrance.png" group-title="FR| FRANCE HD",FR| MTV HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507416
-#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="FR| E! ENTERTAINMENT HD" tvg-logo="http://logo.protv.cc/picons/logos/E!-ENTERTAINMENT-HD.jpeg" group-title="FR| FRANCE HD",FR| E! ENTERTAINMENT HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507415
 #EXTINF:-1 tvg-id="" tvg-name="FR| NOVELAS HD" tvg-logo="http://logo.protv.cc/picons/logos/novelastv.png" group-title="FR| FRANCE HD",FR| NOVELAS HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507414
 #EXTINF:-1 tvg-id="MCM.fr" tvg-name="FR| MCM HD" tvg-logo="http://logo.protv.cc/picons/logos/mcmfrancehd.png" group-title="FR| FRANCE HD",FR| MCM HD
@@ -2287,8 +2185,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507413
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507412
 #EXTINF:-1 tvg-id="JONE.fr" tvg-name="FR| J-ONE HD" tvg-logo="http://logo.protv.cc/picons/logos/jonehd.png" group-title="FR| FRANCE HD",FR| J-ONE HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507411
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="FR| MANGAS HD" tvg-logo="http://logo.protv.cc/picons/logos/mangas.png" group-title="FR| FRANCE HD",FR| MANGAS HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507410
 #EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR| AB1 HD" tvg-logo="http://logo.protv.cc/picons/logos/ab1.png" group-title="FR| FRANCE HD",FR| AB1 HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507409
 #EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="FR| TV BREIZH HD" tvg-logo="http://logo.protv.cc/picons/logos/tvbreizhhd.png" group-title="FR| FRANCE HD",FR| TV BREIZH HD
@@ -2299,14 +2195,8 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507407
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507406
 #EXTINF:-1 tvg-id="" tvg-name="FR| RTL 9 HD" tvg-logo="http://logo.protv.cc/picons/logos/rtl9hd.png" group-title="FR| FRANCE HD",FR| RTL 9 HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507405
-#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="FR| SYFY HD" tvg-logo="http://logo.protv.cc/picons/logos/syfyhd.png" group-title="FR| FRANCE HD",FR| SYFY HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507404
-#EXTINF:-1 tvg-id="BET.fr" tvg-name="FR| BET HD" tvg-logo="http://logo.protv.cc/picons/logos/bethdfrance.png" group-title="FR| FRANCE HD",FR| BET HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507402
 #EXTINF:-1 tvg-id="" tvg-name="FR| LUXE TV HD" tvg-logo="http://logo.protv.cc/picons/logos/luxetvhd.png" group-title="FR| FRANCE HD",FR| LUXE TV HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507401
-#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="FR| TV5 MONDE HD" tvg-logo="http://logo.protv.cc/picons/logos/tv5mondehd.png" group-title="FR| FRANCE HD",FR| TV5 MONDE HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507400
 #EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="FR| COMEDY CENTRAL HD" tvg-logo="http://logo.protv.cc/picons/logos/comedycentralhd.png" group-title="FR| FRANCE HD",FR| COMEDY CENTRAL HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507399
 #EXTINF:-1 tvg-id="" tvg-name="FR| LUCKY JACK HD" tvg-logo="http://logo.protv.cc/picons/logos/luckyjack.png" group-title="FR| FRANCE HD",FR| LUCKY JACK HD
@@ -2425,8 +2315,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507339
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507338
 #EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="FR| PLANETE AE HD" tvg-logo="http://logo.protv.cc/picons/logos/planeteplusaventureexperience.png" group-title="FR| FRANCE HD",FR| PLANETE AE HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507337
-#EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="FR| PLANETE CI HD" tvg-logo="http://logo.protv.cc/picons/logos/planetepluscrimeinvestigation.png" group-title="FR| FRANCE HD",FR| PLANETE CI HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507336
 #EXTINF:-1 tvg-id="" tvg-name="FR| VICELAND HD" tvg-logo="http://logo.protv.cc/picons/logos/vicelandhd.png" group-title="FR| FRANCE HD",FR| VICELAND HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507335
 #EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR| NATIONAL GEO HD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeohd.png" group-title="FR| FRANCE HD",FR| NATIONAL GEO HD
@@ -2491,14 +2379,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507304
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507303
 #EXTINF:-1 tvg-id="TeleToonPlus.fr" tvg-name="FR| TELETOON+ HD" tvg-logo="http://logo.protv.cc/picons/logos/teletoonplushd.png" group-title="FR| FRANCE HD",FR| TELETOON+ HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507302
-#EXTINF:-1 tvg-id="" tvg-name="FR| GAME ONE +1 HD" tvg-logo="http://logo.protv.cc/picons/logos/GAME-ONE-plus1-HD.jpeg" group-title="FR| FRANCE HD",FR| GAME ONE +1 HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507301
-#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="FR| M6 MUSIC HD" tvg-logo="http://logo.protv.cc/picons/logos/m6musichd.png" group-title="FR| FRANCE HD",FR| M6 MUSIC HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507300
-#EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-name="FR| MTV HITS HD" tvg-logo="http://logo.protv.cc/picons/logos/mtvhitshdfrance.png" group-title="FR| FRANCE HD",FR| MTV HITS HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507299
-#EXTINF:-1 tvg-id="" tvg-name="FR| MTV LIVE HD" tvg-logo="http://logo.protv.cc/picons/logos/mtvlivehd.png" group-title="FR| FRANCE HD",FR| MTV LIVE HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507298
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="FR| BFMTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BFM-TV.png" group-title="FR| FRANCE HD",FR| BFMTV HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507297
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="FR| MEZZO LIVE HD" tvg-logo="http://logo.protv.cc/picons/logos/mezzolivehd.png" group-title="FR| FRANCE HD",FR| MEZZO LIVE HD
@@ -2519,8 +2399,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507290
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507289
 #EXTINF:-1 tvg-id="" tvg-name="FR| TRACE VANILLA HD" tvg-logo="http://logo.protv.cc/picons/logos/traceurban.png" group-title="FR| FRANCE HD",FR| TRACE VANILLA HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/578875
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="FR| TRACE URBAN HD" tvg-logo="http://logo.protv.cc/picons/logos/traceurbanhd.png" group-title="FR| FRANCE HD",FR| TRACE URBAN HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507288
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="FR| TRACE LATINA HD" tvg-logo="http://logo.protv.cc/picons/logos/tracelatina.png" group-title="FR| FRANCE HD",FR| TRACE LATINA HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507287
 #EXTINF:-1 tvg-id="StingrayClassica.fr" tvg-name="FR| STINGREY CLASSICA HD" tvg-logo="http://logo.protv.cc/picons/logos/stingrayclassica.png" group-title="FR| FRANCE HD",FR| STINGREY CLASSICA HD
@@ -2591,8 +2469,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507627
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507626
 #EXTINF:-1 tvg-id="" tvg-name="FR| FRANCE3 LQ" tvg-logo="http://logo.protv.cc/picons/logos/france3.png" group-title="FR| FRANCE LQ",FR| FRANCE3 LQ
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507625
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LQ" tvg-logo="http://logo.protv.cc/picons/logos/canalplus.png" group-title="FR| FRANCE LQ",FR| CANAL+ LQ
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507624
 #EXTINF:-1 tvg-id="" tvg-name="FR| FRANCE 5 LQ" tvg-logo="http://logo.protv.cc/picons/logos/france5.png" group-title="FR| FRANCE LQ",FR| FRANCE 5 LQ
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507623
 #EXTINF:-1 tvg-id="" tvg-name="FR| M6 LQ" tvg-logo="http://logo.protv.cc/picons/logos/m6.png" group-title="FR| FRANCE LQ",FR| M6 LQ
@@ -2829,8 +2705,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507507
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507506
 #EXTINF:-1 tvg-id="" tvg-name="FR| PIWI+ LQ" tvg-logo="http://logo.protv.cc/picons/logos/piwiplus.png" group-title="FR| FRANCE LQ",FR| PIWI+ LQ
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507505
-#EXTINF:-1 tvg-id="" tvg-name="FR| DISNEY CHANNEL LQ" tvg-logo="http://logo.protv.cc/picons/logos/disneychannel.png" group-title="FR| FRANCE LQ",FR| DISNEY CHANNEL LQ
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507504
 #EXTINF:-1 tvg-id="" tvg-name="FR| DISNEY JUNIOR LQ" tvg-logo="http://logo.protv.cc/picons/logos/disneyjunior.png" group-title="FR| FRANCE LQ",FR| DISNEY JUNIOR LQ
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507503
 #EXTINF:-1 tvg-id="" tvg-name="FR| NICKELODEON 4 TEEN LQ" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon4teen.png" group-title="FR| FRANCE LQ",FR| NICKELODEON 4 TEEN LQ
@@ -2839,8 +2713,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507502
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507501
 #EXTINF:-1 tvg-id="" tvg-name="FR| BOOMERANG LQ" tvg-logo="http://logo.protv.cc/picons/logos/boomerangfrance.png" group-title="FR| FRANCE LQ",FR| BOOMERANG LQ
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507500
-#EXTINF:-1 tvg-id="" tvg-name="FR| CARTOON NETWORK LQ" tvg-logo="http://logo.protv.cc/picons/logos/cartoonnetwork.png" group-title="FR| FRANCE LQ",FR| CARTOON NETWORK LQ
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507499
 #EXTINF:-1 tvg-id="" tvg-name="FR| NICKELODEON LQ" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="FR| FRANCE LQ",FR| NICKELODEON LQ
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507498
 #EXTINF:-1 tvg-id="" tvg-name="FR| NICKELODEON JR LQ" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeonjr.png" group-title="FR| FRANCE LQ",FR| NICKELODEON JR LQ
@@ -2895,7 +2767,7 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507474
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507473
 #EXTINF:-1 tvg-id="" tvg-name="FR| BFMLYON LQ" tvg-logo="http://logo.protv.cc/picons/logos/bfmlyon.png" group-title="FR| FRANCE LQ",FR| BFMLYON LQ
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507472
-#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="FR| COMEDY CENTRAL HD" tvg-logo="http://logo.protv.cc/picons/logos/comedycentralhd.png" group-title="",FR| COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="FR| COMEDY CENTRAL HD" tvg-logo="http://logo.protv.cc/picons/logos/comedycentralhd.png" group-title="FR| FRANCE LQ",FR| COMEDY CENTRAL HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/165705
 #EXTINF:-1 tvg-id="" tvg-name="ENF| NICKELODEON +1 HD" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeonplus1.png" group-title="FR| ENFANTS HD",ENF| NICKELODEON +1 HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507942
@@ -2939,10 +2811,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519226
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519225
 #EXTINF:-1 tvg-id="" tvg-name="FR| PEPPA PIG FRANCAIS HD" tvg-logo="http://logo.protv.cc/picons/logos/PEPPA-PIG.png" group-title="FR| ENFANTS HD",FR| PEPPA PIG FRANCAIS HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519224
-#EXTINF:-1 tvg-id="" tvg-name="FR| TOM ET JERRY HD" tvg-logo="http://logo.protv.cc/picons/logos/TOM-AND-JERRY.jpg" group-title="FR| ENFANTS HD",FR| TOM ET JERRY HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519223
-#EXTINF:-1 tvg-id="" tvg-name="FR| ASTERIX ET OBELIX" tvg-logo="http://logo.protv.cc/picons/logos/ASTERIX-ET-OBELIX.jpeg" group-title="FR| ENFANTS HD",FR| ASTERIX ET OBELIX
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519222
 #EXTINF:-1 tvg-id="" tvg-name="FR| FRANKLIN LA TORTUE" tvg-logo="http://logo.protv.cc/picons/logos/FRANKLIN-LA-TORTUE.jpg" group-title="FR| ENFANTS HD",FR| FRANKLIN LA TORTUE
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519221
 #EXTINF:-1 tvg-id="" tvg-name="FR| KATURI" tvg-logo="http://logo.protv.cc/picons/logos/KATURI.jpeg" group-title="FR| ENFANTS HD",FR| KATURI
@@ -2951,12 +2819,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519220
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519219
 #EXTINF:-1 tvg-id="" tvg-name="FR| LES SCHTROUMPFS" tvg-logo="http://logo.protv.cc/picons/logos/LES-SCHTROUMPFS.png" group-title="FR| ENFANTS HD",FR| LES SCHTROUMPFS
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519218
-#EXTINF:-1 tvg-id="" tvg-name="FR| LES DALTONS" tvg-logo="http://logo.protv.cc/picons/logos/LES-DALTONS.jpeg" group-title="FR| ENFANTS HD",FR| LES DALTONS
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519217
-#EXTINF:-1 tvg-id="" tvg-name="FR| LOONEY TUNES" tvg-logo="http://logo.protv.cc/picons/logos/looneytunes.jpg" group-title="FR| ENFANTS HD",FR| LOONEY TUNES
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519216
-#EXTINF:-1 tvg-id="" tvg-name="FR| MADAGASCAR" tvg-logo="http://logo.protv.cc/picons/logos/MADAGASCAR-KIDSFR.png" group-title="FR| ENFANTS HD",FR| MADAGASCAR
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519215
 #EXTINF:-1 tvg-id="" tvg-name="FR| OLIVE ET TOM" tvg-logo="http://logo.protv.cc/picons/logos/OLIVE-ET-TOM.jpg" group-title="FR| ENFANTS HD",FR| OLIVE ET TOM
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519213
 #EXTINF:-1 tvg-id="" tvg-name="FR| SCOOBY-DOO" tvg-logo="http://logo.protv.cc/picons/logos/SCOOBY-DOO.png" group-title="FR| ENFANTS HD",FR| SCOOBY-DOO
