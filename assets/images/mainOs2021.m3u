@@ -13,16 +13,12 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355942
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355948
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR| TF1 HD" tvg-logo="http://logo.protv.cc/picons/logos/tf1hd.png" group-title="OS",FR| TF1 HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507471
-#EXTINF:-1 tvg-id="" tvg-name="AFR| AFRICA24" tvg-logo="http://logo.protv.cc/picons/logos/africa24.png" group-title="OS",AFR| AFRICA24
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85649
-#EXTINF:-1 tvg-id="" tvg-name="AFR| AFRICABLE" tvg-logo="http://logo.protv.cc/picons/logos/AFRICABLE-TV.png" group-title="OS",AFR| AFRICABLE
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355907
-#EXTINF:-1 tvg-id="" tvg-name="AFR| TVT" tvg-logo="http://logo.protv.cc/picons/logos/TVT.jpeg" group-title="OS",AFR| TVT
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355992
-#EXTINF:-1 tvg-id="" tvg-name="COITED| RTI1" tvg-logo="http://logo.protv.cc/picons/logos/rti1.png" group-title="OS",COITED| RTI1
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85671
-#EXTINF:-1 tvg-id="" tvg-name="COITED| RTI2" tvg-logo="http://logo.protv.cc/picons/logos/rti2.png" group-title="OS",COITED| RTI2
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85670
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR| NATIONAL GEO FHD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographichd.png" group-title="OS",FR| NATIONAL GEO FHD
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506529
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="FR| PLANETE+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/planeteplus.png" group-title="OS",FR| PLANETE+ FHD
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506535
+#EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="FR| PLANETE CI HD" tvg-logo="http://logo.protv.cc/picons/logos/planetepluscrimeinvestigation.png" group-title="OS",FR| PLANETE CI HD
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507336
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="MUSIC| TRACE URBAN HD" tvg-logo="http://logo.protv.cc/picons/logos/traceurbanhd.png" group-title="OS",MUSIC| TRACE URBAN HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507288
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE NAIJA" tvg-logo="http://logo.protv.cc/picons/logos/TRACE-NAIJA.png" group-title="OS",MUSIC| TRACE NAIJA
@@ -33,20 +29,30 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85509
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85511
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC| AFRO MUSIC" tvg-logo="http://logo.protv.cc/picons/logos/afromusic.png" group-title="OS",MUSIC| AFRO MUSIC
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85499
+#EXTINF:-1 tvg-id="" tvg-name="AFR| AFRICA24" tvg-logo="http://logo.protv.cc/picons/logos/africa24.png" group-title="OS",AFR| AFRICA24
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85649
+#EXTINF:-1 tvg-id="" tvg-name="AFR| AFRICABLE" tvg-logo="http://logo.protv.cc/picons/logos/AFRICABLE-TV.png" group-title="OS",AFR| AFRICABLE
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355907
+#EXTINF:-1 tvg-id="" tvg-name="AFR| TVT" tvg-logo="http://logo.protv.cc/picons/logos/TVT.jpeg" group-title="OS",AFR| TVT
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/355992
+#EXTINF:-1 tvg-id="" tvg-name="COITED| RTI1" tvg-logo="http://logo.protv.cc/picons/logos/rti1.png" group-title="OS",COITED| RTI1
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85671
+#EXTINF:-1 tvg-id="" tvg-name="COITED| RTI2" tvg-logo="http://logo.protv.cc/picons/logos/rti2.png" group-title="OS",COITED| RTI2
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/85670
 #EXTINF:-1 tvg-id="Mangas.fr" tvg-name="FR| MANGAS HD" tvg-logo="http://logo.protv.cc/picons/logos/mangas.png" group-title="OS",FR| MANGAS HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507410
+#EXTINF:-1 tvg-id="" tvg-name="FR| TOM ET JERRY HD" tvg-logo="http://logo.protv.cc/picons/logos/TOM-AND-JERRY.jpg" group-title="OS",FR| TOM ET JERRY HD
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519223
+#EXTINF:-1 tvg-id="" tvg-name="FR| LOONEY TUNES" tvg-logo="http://logo.protv.cc/picons/logos/looneytunes.jpg" group-title="OS",FR| LOONEY TUNES
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/
+#EXTINF:-1 tvg-id="" tvg-name="FR| LES DALTONS" tvg-logo="http://logo.protv.cc/picons/logos/LES-DALTONS.jpeg" group-title="OS",FR| LES DALTONS
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519217
+#EXTINF:-1 tvg-id="" tvg-name="FR| ASTERIX ET OBELIX" tvg-logo="http://logo.protv.cc/picons/logos/ASTERIX-ET-OBELIX.jpeg" group-title="OS",FR| ASTERIX ET OBELIX
+http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519222
 #EXTINF:-1 tvg-id="" tvg-name="FR| CARTOON NETWORK LQ" tvg-logo="http://logo.protv.cc/picons/logos/cartoonnetwork.png" group-title="OS",FR| CARTOON NETWORK LQ
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507499
 #EXTINF:-1 tvg-id="" tvg-name="FR| DISNEY CHANNEL LQ" tvg-logo="http://logo.protv.cc/picons/logos/disneychannel.png" group-title="OS",FR| DISNEY CHANNEL LQ
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507504
-#EXTINF:-1 tvg-id="" tvg-name="FR| TOM ET JERRY HD" tvg-logo="http://logo.protv.cc/picons/logos/TOM-AND-JERRY.jpg" group-title="OS",FR| TOM ET JERRY HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519223
-#EXTINF:-1 tvg-id="" tvg-name="FR| ASTERIX ET OBELIX" tvg-logo="http://logo.protv.cc/picons/logos/ASTERIX-ET-OBELIX.jpeg" group-title="OS",FR| ASTERIX ET OBELIX
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519222
-#EXTINF:-1 tvg-id="" tvg-name="FR| LES DALTONS" tvg-logo="http://logo.protv.cc/picons/logos/LES-DALTONS.jpeg" group-title="OS",FR| LES DALTONS
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519217
-#EXTINF:-1 tvg-id="" tvg-name="FR| LOONEY TUNES" tvg-logo="http://logo.protv.cc/picons/logos/looneytunes.jpg" group-title="OS",FR| LOONEY TUNES
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519216
 #EXTINF:-1 tvg-id="" tvg-name="FR| MADAGASCAR" tvg-logo="http://logo.protv.cc/picons/logos/MADAGASCAR-KIDSFR.png" group-title="OS",FR| MADAGASCAR
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/519215
 #EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-name="FR| MTV HITS HD" tvg-logo="http://logo.protv.cc/picons/logos/mtvhitshdfrance.png" group-title="OS",FR| MTV HITS HD
@@ -55,12 +61,6 @@ http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507299
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507415
 #EXTINF:-1 tvg-id="" tvg-name="FR| MTV LIVE HD" tvg-logo="http://logo.protv.cc/picons/logos/mtvlivehd.png" group-title="OS",FR| MTV LIVE HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507298
-#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR| NATIONAL GEO FHD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographichd.png" group-title="OS",FR| NATIONAL GEO FHD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506529
-#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="FR| PLANETE+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/planeteplus.png" group-title="OS",FR| PLANETE+ FHD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/506535
-#EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="FR| PLANETE CI HD" tvg-logo="http://logo.protv.cc/picons/logos/planetepluscrimeinvestigation.png" group-title="OS",FR| PLANETE CI HD
-http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507336
 #EXTINF:-1 tvg-id="BET.fr" tvg-name="FR| BET HD" tvg-logo="http://logo.protv.cc/picons/logos/bethdfrance.png" group-title="OS",FR| BET HD
 http://line.iptvwings.com:80/75e95bd82b/d0fd02235d/507402
 #EXTINF:-1 tvg-id="" tvg-name="FR| GAME ONE +1 HD" tvg-logo="http://logo.protv.cc/picons/logos/GAME-ONE-plus1-HD.jpeg" group-title="OS",FR| GAME ONE +1 HD
