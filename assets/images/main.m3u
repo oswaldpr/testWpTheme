@@ -3,16 +3,18 @@
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/85515
 #EXTINF:-1 tvg-id="ca.LCN HD" tvg-name="CA| LCN" tvg-logo="http://logo.protv.cc/picons/logos/lcn.png" group-title="OS",CA| LCN
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/20549
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR| FRANCE 24" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="OS",FR| FRANCE 24
-http://line.iptvwings.com:80/4eac26ec99/0554b2362a/355942
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR| FRANCE 24 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="OS",FR| FRANCE 24 FHD
+http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506483
 #EXTINF:-1 tvg-id="" tvg-name="FR| TV5 MONDE AFRIQUE" tvg-logo="http://logo.protv.cc/picons/logos/tv5mondeafrique.png" group-title="OS",FR| TV5 MONDE AFRIQUE
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/209734
 #EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="FR| TV5 MONDE HD" tvg-logo="http://logo.protv.cc/picons/logos/tv5mondehd.png" group-title="OS",FR| TV5 MONDE HD
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/507400
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR| LCI" tvg-logo="http://logo.protv.cc/picons/logos/lci.png" group-title="OS",FR| LCI
-http://line.iptvwings.com:80/4eac26ec99/0554b2362a/355948
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR| TF1 HD" tvg-logo="http://logo.protv.cc/picons/logos/tf1hd.png" group-title="OS",FR| TF1 HD
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/507471
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR| TFX 4K" tvg-logo="http://logo.protv.cc/picons/logos/tfx.png" group-title="OS",FR| TFX 4K
+http://line.iptvwings.com:80/4eac26ec99/0554b2362a/526142
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR| LCI" tvg-logo="http://logo.protv.cc/picons/logos/lci.png" group-title="OS",FR| LCI
+http://line.iptvwings.com:80/4eac26ec99/0554b2362a/355948
 #EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR| NATIONAL GEO FHD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographichd.png" group-title="OS",FR| NATIONAL GEO FHD
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506529
 #EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="FR| PLANETE+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/planeteplus.png" group-title="OS",FR| PLANETE+ FHD
@@ -41,14 +43,6 @@ http://line.iptvwings.com:80/4eac26ec99/0554b2362a/85671
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/85670
 #EXTINF:-1 tvg-id="Mangas.fr" tvg-name="FR| MANGAS HD" tvg-logo="http://logo.protv.cc/picons/logos/mangas.png" group-title="OS",FR| MANGAS HD
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/507410
-#EXTINF:-1 tvg-id="" tvg-name="FR| TOM ET JERRY HD" tvg-logo="http://logo.protv.cc/picons/logos/TOM-AND-JERRY.jpg" group-title="OS",FR| TOM ET JERRY HD
-http://line.iptvwings.com:80/4eac26ec99/0554b2362a/519223
-#EXTINF:-1 tvg-id="" tvg-name="FR| LOONEY TUNES" tvg-logo="http://logo.protv.cc/picons/logos/looneytunes.jpg" group-title="OS",FR| LOONEY TUNES
-http://line.iptvwings.com:80/4eac26ec99/0554b2362a/
-#EXTINF:-1 tvg-id="" tvg-name="FR| LES DALTONS" tvg-logo="http://logo.protv.cc/picons/logos/LES-DALTONS.jpeg" group-title="OS",FR| LES DALTONS
-http://line.iptvwings.com:80/4eac26ec99/0554b2362a/519217
-#EXTINF:-1 tvg-id="" tvg-name="FR| ASTERIX ET OBELIX" tvg-logo="http://logo.protv.cc/picons/logos/ASTERIX-ET-OBELIX.jpeg" group-title="OS",FR| ASTERIX ET OBELIX
-http://line.iptvwings.com:80/4eac26ec99/0554b2362a/519222
 #EXTINF:-1 tvg-id="" tvg-name="FR| CARTOON NETWORK LQ" tvg-logo="http://logo.protv.cc/picons/logos/cartoonnetwork.png" group-title="OS",FR| CARTOON NETWORK LQ
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/507499
 #EXTINF:-1 tvg-id="" tvg-name="FR| DISNEY CHANNEL LQ" tvg-logo="http://logo.protv.cc/picons/logos/disneychannel.png" group-title="OS",FR| DISNEY CHANNEL LQ
@@ -61,6 +55,8 @@ http://line.iptvwings.com:80/4eac26ec99/0554b2362a/647111
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506515
 #EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="FR| DISNEY CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons/logos/disneychannel.png" group-title="OS",FR| DISNEY CHANNEL FHD
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506514
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="FR| TIJI FHD" tvg-logo="http://logo.protv.cc/picons/logos/tiji.png" group-title="OS",FR| TIJI FHD
+http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506502
 #EXTINF:-1 tvg-id="PIWI.fr" tvg-name="FR| PIWI+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/piwiplus.png" group-title="OS",FR| PIWI+ FHD
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506513
 #EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="FR| NICKELODEON FHD" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="OS",FR| NICKELODEON FHD
@@ -73,6 +69,14 @@ http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506510
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506509
 #EXTINF:-1 tvg-id="GameOne.fr" tvg-name="FR| GAME ONE HD" tvg-logo="http://logo.protv.cc/picons/logos/gameone.png" group-title="OS",FR| GAME ONE HD
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/507412
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="FR| BEIN SPORTS 1 4K" tvg-logo="http://logo.protv.cc/picons/logos/beinsports1hd.png" group-title="OS",FR| BEIN SPORTS 1 4K
+http://line.iptvwings.com:80/4eac26ec99/0554b2362a/526126
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="FR| BEIN SPORTS 2 4K" tvg-logo="http://logo.protv.cc/picons/logos/beinsports2hd.png" group-title="OS",FR| BEIN SPORTS 2 4K
+http://line.iptvwings.com:80/4eac26ec99/0554b2362a/526125
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="FR| BEIN SPORTS 3 4K" tvg-logo="http://logo.protv.cc/picons/logos/beinsports3hd.png" group-title="OS",FR| BEIN SPORTS 3 4K
+http://line.iptvwings.com:80/4eac26ec99/0554b2362a/526124
+#EXTINF:-1 tvg-id="" tvg-name="FR| TF1 SERIES LQ" tvg-logo="http://logo.protv.cc/picons/logos/tf1seriesfilms.png" group-title="OS",FR| TF1 SERIES LQ
+http://line.iptvwings.com:80/4eac26ec99/0554b2362a/507610
 #EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR| AB1 HD" tvg-logo="http://logo.protv.cc/picons/logos/ab1.png" group-title="OS",FR| AB1 HD
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/507409
 #EXTINF:-1 tvg-id="" tvg-name="FR| COMEDIE+ LQ" tvg-logo="http://logo.protv.cc/picons/logos/comedieplus.png" group-title="OS",FR| COMEDIE+ LQ
@@ -89,8 +93,6 @@ http://line.iptvwings.com:80/4eac26ec99/0554b2362a/507571
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/507570
 #EXTINF:-1 tvg-id="" tvg-name="FR| MCM LQ" tvg-logo="http://logo.protv.cc/picons/logos/mcmfrance.png" group-title="OS",FR| MCM LQ
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/507569
-#EXTINF:-1 tvg-id="" tvg-name="FR| TF1 SERIES LQ" tvg-logo="http://logo.protv.cc/picons/logos/tf1seriesfilms.png" group-title="OS",FR| TF1 SERIES LQ
-http://line.iptvwings.com:80/4eac26ec99/0554b2362a/507610
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="FR| NRJ HITS FHD" tvg-logo="http://logo.protv.cc/picons/logos/nrjhits.png" group-title="OS",FR| NRJ HITS FHD
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506498
 #EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-name="FR| MTV HITS FHD" tvg-logo="http://logo.protv.cc/picons/logos/mtvhits.png" group-title="OS",FR| MTV HITS FHD
@@ -111,10 +113,6 @@ http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506591
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506571
 #EXTINF:-1 tvg-id="Syfy.fr" tvg-name="FR| SYFY FHD" tvg-logo="http://logo.protv.cc/picons/logos/syfy.png" group-title="OS",FR| SYFY FHD
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506570
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR| FRANCE 24 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="OS",FR| FRANCE 24 FHD
-http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506483
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="FR| TIJI FHD" tvg-logo="http://logo.protv.cc/picons/logos/tiji.png" group-title="OS",FR| TIJI FHD
-http://line.iptvwings.com:80/4eac26ec99/0554b2362a/506502
 #EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-name="FR| MTV HITS HD" tvg-logo="http://logo.protv.cc/picons/logos/mtvhitshdfrance.png" group-title="OS",FR| MTV HITS HD
 http://line.iptvwings.com:80/4eac26ec99/0554b2362a/507299
 #EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="FR| E! ENTERTAINMENT HD" tvg-logo="http://logo.protv.cc/picons/logos/E!-ENTERTAINMENT-HD.jpeg" group-title="OS",FR| E! ENTERTAINMENT HD
