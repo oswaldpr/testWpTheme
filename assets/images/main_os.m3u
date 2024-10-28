@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BENIN| ORTB" tvg-logo="http://103.176.90.118/picons/logos/ortb.png" group-title="OS",BENIN| ORTB
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/85515
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL 3 BENIN" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CANAL-3-BENIN.png" group-title="OS",AFR| CANAL 3 BENIN
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/921137
+#EXTINF:-1 tvg-id="" tvg-name="AFR| GOLF TV AFRICA" tvg-logo="http://103.176.90.118/picons/logos/logos/GOLF-TV-AFRICA.png" group-title="OS",AFR| GOLF TV AFRICA
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/921136
+#EXTINF:-1 tvg-id="" tvg-name="AFR| TVC BENINOISE" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TVC-BENINOISE.png" group-title="OS",AFR| TVC BENINOISE
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/921135
+#EXTINF:-1 tvg-id="" tvg-name="AFR| C+ POP OUEST" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CANAL-PLUS-POP-OUEST.png" group-title="OS",AFR| C+ POP OUEST
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806709
+#EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="CA| LCN HD" tvg-logo="http://103.176.90.118/picons/logos/LCN-HD.png" group-title="OS",CA| LCN HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/177293
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="AFR| FRANCE 24" tvg-logo="http://103.176.90.118/picons/logos/france24.png" group-title="OS",AFR| FRANCE 24
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/355942
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR| FRANCE 24 FHD" tvg-logo="http://103.176.90.118/picons/logos/france/FRANCE24.png" group-title="OS",FR| FRANCE 24 FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506483
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="FR| TV5 MONDE HD" tvg-logo="http://103.176.90.118/picons/logos/france/TV5MONDE.png" group-title="OS",FR| TV5 MONDE HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507400
+#EXTINF:-1 tvg-id="" tvg-name="UGA| TV5 MONDE AFRIQUE" tvg-logo="http://103.176.90.118/picons/logos/tv5mondeafrique.png" group-title="OS",UGA| TV5 MONDE AFRIQUE
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/209734
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR| LCI FHD" tvg-logo="http://103.176.90.118/picons/logos/france/LCI.png" group-title="OS",FR| LCI FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506614
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR| LCI HD" tvg-logo="http://103.176.90.118/picons/logos/france/LCI.png" group-title="OS",FR| LCI HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507447
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR| TF1 4K" tvg-logo="http://103.176.90.118/picons/logos/france/TF1.png" group-title="OS",FR| TF1 4K
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/526153
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR| TF1 SERIES 4K" tvg-logo="http://103.176.90.118/picons/logos/france/TF1_SERIE.png" group-title="OS",FR| TF1 SERIES 4K
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/526143
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR| TFX 4K" tvg-logo="http://103.176.90.118/picons/logos/france/TFX.png" group-title="OS",FR| TFX 4K
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/526142
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="FR| WARNER TV FHD" tvg-logo="http://103.176.90.118/picons/logos/france/WARNER.png" group-title="OS",FR| WARNER TV FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506586
+#EXTINF:-1 tvg-id="AddikTV.ca" tvg-name="CA| ADDIK TV HD" tvg-logo="http://103.176.90.118/picons/logos/USA/ADDIK-TV.png" group-title="OS",CA| ADDIK TV HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/177270
+#EXTINF:-1 tvg-id="13emeRue.mu" tvg-name="FR| 13EME RUE FHD" tvg-logo="http://103.176.90.118/piconsnew/13emerue.png" group-title="OS",FR| 13EME RUE FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506591
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR| NATIONAL GEO FHD" tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" group-title="OS",FR| NATIONAL GEO FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506529
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="FR| PLANETE + HD" tvg-logo="http://103.176.90.118/picons/logos/planeteplushd.png" group-title="OS",FR| PLANETE + HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507338
+#EXTINF:-1 tvg-id="PlaneteJustice.fr" tvg-name="FR| PLANETE CI HD" tvg-logo="http://103.176.90.118/picons/logos/france/PLANETE-1.png" group-title="OS",FR| PLANETE CI HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507336
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE URBAN" tvg-logo="http://103.176.90.118/picons/logos/traceurban.png" group-title="OS",MUSIC| TRACE URBAN
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/85506
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE TROPICAL" tvg-logo="http://103.176.90.118/picons/logos/tracetropical.png" group-title="OS",MUSIC| TRACE TROPICAL
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/85507
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE NAIJA" tvg-logo="http://103.176.90.118/picons/logos/TRACE-NAIJA.png" group-title="OS",MUSIC| TRACE NAIJA
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/85508
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE MISIKI" tvg-logo="http://103.176.90.118/picons/logos/TRACE-MISIKI.png" group-title="OS",MUSIC| TRACE MISIKI
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/85509
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE TOCA" tvg-logo="http://103.176.90.118/picons/logos/africanmusic.png" group-title="OS",MUSIC| TRACE TOCA
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/85510
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC| TRACE AFRICA" tvg-logo="http://103.176.90.118/picons/logos/africanmusic.png" group-title="OS",MUSIC| TRACE AFRICA
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/85511
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="FR| MANGAS FHD" tvg-logo="http://103.176.90.118/picons/logos/france/MANGAS.png" group-title="OS",FR| MANGAS FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506577
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="FR| GAME ONE FHD" tvg-logo="http://103.176.90.118/picons/logos/france/GAMEONE1.png" group-title="OS",FR| GAME ONE FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506579
+#EXTINF:-1 tvg-id="Gametoon.pl" tvg-name="FR| GAMETOON FHD" tvg-logo="http://103.176.90.118/picons/logos/gametoon.png" group-title="OS",FR| GAMETOON FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506540
+#EXTINF:-1 tvg-id="JONE.fr" tvg-name="FR| J-ONE FHD" tvg-logo="http://103.176.90.118/picons/logos/france/J-ONE-1.png" group-title="OS",FR| J-ONE FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506578
+#EXTINF:-1 tvg-id="" tvg-name="FR| CARTOON NETWORK LQ" tvg-logo="http://103.176.90.118/picons/logos/france/CARTOONNETWORKFHD.png" group-title="OS",FR| CARTOON NETWORK LQ
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507499
+#EXTINF:-1 tvg-id="" tvg-name="FR| TV PITCHOUN HD" tvg-logo="http://103.176.90.118/picons/logos/france/PITCHOUN.png" group-title="OS",FR| TV PITCHOUN HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/1070158
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="FR| DISNEY CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/france/DISNEYCHANNEL.png" group-title="OS",FR| DISNEY CHANNEL HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507315
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="FR| DISNEY JUNIOR HD" tvg-logo="http://103.176.90.118/picons/logos/france/DISNEYJUNIORFHD.png" group-title="OS",FR| DISNEY JUNIOR HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507314
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="FR| NICKELODEON HD" tvg-logo="http://103.176.90.118/picons/logos/france/NICKELODEON.png" group-title="OS",FR| NICKELODEON HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507309
+#EXTINF:-1 tvg-id="" tvg-name="FR| NICKELODEON +1 HD" tvg-logo="http://103.176.90.118/picons/logos/france/NICKELODEON.png" group-title="OS",FR| NICKELODEON +1 HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507307
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="FR| NICKELODEON JR HD" tvg-logo="http://103.176.90.118/picons/logos/france/NICKELODEONJUNIOR.png" group-title="OS",FR| NICKELODEON JR HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507308
+#EXTINF:-1 tvg-id="" tvg-name="FR| NICKELODEON 4 TEEN HD" tvg-logo="http://103.176.90.118/picons/logos/france/NICKELODEON-4-TEEN.png" group-title="OS",FR| NICKELODEON 4 TEEN HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507313
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="FR| TIJI FHD" tvg-logo="http://103.176.90.118/picons/logos/france/TIJIFHD.png" group-title="OS",FR| TIJI FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506502
+#EXTINF:-1 tvg-id="" tvg-name="FR| PIWI+ LQ" tvg-logo="http://103.176.90.118/picons/logos/france/PIWI+.png" group-title="OS",FR| PIWI+ LQ
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507505
+#EXTINF:-1 tvg-id="" tvg-name="AFR| BEIN SPORTS 1" tvg-logo="http://103.176.90.118/picons/logos/beinsports1.png" group-title="OS",AFR| BEIN SPORTS 1
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806718
+#EXTINF:-1 tvg-id="" tvg-name="AFR| BEIN SPORTS 2" tvg-logo="http://103.176.90.118/picons/logos/beinsports2.png" group-title="OS",AFR| BEIN SPORTS 2
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806717
+#EXTINF:-1 tvg-id="" tvg-name="AFR| BEIN SPORTS 3" tvg-logo="http://103.176.90.118/picons/logos/beinsports3.png" group-title="OS",AFR| BEIN SPORTS 3
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806716
+#EXTINF:-1 tvg-id="" tvg-name="AFR| AFRICA 24" tvg-logo="http://103.176.90.118/picons/logos/africa24.png" group-title="OS",AFR| AFRICA VINGTQUATR
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806731
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR| C8 4K" tvg-logo="http://103.176.90.118/picons/logos/france/C8.jpg" group-title="OS",FR| C8 4K
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/526145
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR| 6TER 4K" tvg-logo="http://103.176.90.118/picons/logos/france/6TER.png" group-title="OS",FR| 6TER 4K
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/526144
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="FR| SYFY 4K" tvg-logo="http://103.176.90.118/picons/logos/france/SYFYHD.png" group-title="OS",FR| SYFY 4K
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/526141
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="FR| ACTION 4K" tvg-logo="http://103.176.90.118/picons/logos/france/ACTIONHD-1.png" group-title="OS",FR| ACTION 4K
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/526140
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR| AB1 FHD" tvg-logo="http://103.176.90.118/picons/logos/france/AB1.png" group-title="OS",FR| AB1 FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506576
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="FR| COMEDIE+ HD" tvg-logo="http://103.176.90.118/picons/logos/france/COMEDIEPLUS.png" group-title="OS",FR| COMEDIE+ HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507420
+#EXTINF:-1 tvg-id="RTL9.lu" tvg-name="FR| RTL 9 HD" tvg-logo="http://103.176.90.118/picons/logos/rtl9hd.png" group-title="OS",FR| RTL 9 HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507405
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR| AB1 HD" tvg-logo="http://103.176.90.118/picons/logos/ab1.png" group-title="OS",FR| AB1 HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507409
+#EXTINF:-1 tvg-id="" tvg-name="FR| AB3 HD" tvg-logo="http://103.176.90.118/picons/logos/france/AB3.png" group-title="OS",FR| AB3 HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507443
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="FR| SERIE CLUB HD" tvg-logo="http://103.176.90.118/picons/logos/serieclubhd.png" group-title="OS",FR| SERIE CLUB HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507417
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR| PARIS PREMIERE HD" tvg-logo="http://103.176.90.118/picons/logos/parispremierehd.png" group-title="OS",FR| PARIS PREMIERE HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507406
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="FR| BET HD" tvg-logo="http://103.176.90.118/picons/logos/bethdfrance.png" group-title="OS",FR| BET HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507402
+#EXTINF:-1 tvg-id="" tvg-name="FR| M6 MUSIC LQ" tvg-logo="http://103.176.90.118/picons/logos/france/M6MUSIC.png" group-title="OS",FR| M6 MUSIC LQ
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507489
+#EXTINF:-1 tvg-id="" tvg-name="FR| MTV HITS LQ" tvg-logo="http://103.176.90.118/picons/logos/france/MTV_Hits_logo.png" group-title="OS",FR| MTV HITS LQ
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507488
+#EXTINF:-1 tvg-id="" tvg-name="FR| MTV LIVE LQ" tvg-logo="http://103.176.90.118/picons/logos/france/MTV_Live_HD_2013.png" group-title="OS",FR| MTV LIVE LQ
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507487
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="FR| MCM LQ" tvg-logo="http://103.176.90.118/picons/logos/france/MCM1.png" group-title="OS",FR| MCM LQ
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507569
+#EXTINF:-1 tvg-id="" tvg-name="FR| MCM LQ" tvg-logo="http://103.176.90.118/picons/logos/france/MCM1.png" group-title="OS",FR| MCM LQ
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507481
+#EXTINF:-1 tvg-id="" tvg-name="FR| MCM TOP LQ" tvg-logo="http://103.176.90.118/picons/logos/france/MCMTOP.png" group-title="OS",FR| MCM TOP LQ
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/1070160
+#EXTINF:-1 tvg-id="" tvg-name="FR| MTV LQ" tvg-logo="http://103.176.90.118/picons/logos/france/MTV.png" group-title="OS",FR| MTV LQ
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507572
+#EXTINF:-1 tvg-id="" tvg-name="FR| NRJ HITS LQ" tvg-logo="http://103.176.90.118/picons/logos/france/NRJHITS.png" group-title="OS",FR| NRJ HITS LQ
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/507484
+#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="FR| E! FHD" tvg-logo="http://103.176.90.118/picons/logos/eentertainment.png" group-title="OS",FR| E! FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506583
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="FR| TRACE URBAN FHD" tvg-logo="http://103.176.90.118/picons/logos/france/TRACEURBAN.png" group-title="OS",FR| TRACE URBAN FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506495
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="FR| TRACE LATINA FHD" tvg-logo="http://103.176.90.118/picons/logos/france/TRACE_Latina_Logo.png" group-title="OS",FR| TRACE LATINA FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506494
+#EXTINF:-1 tvg-id="TraceTropical.mu" tvg-name="FR| TRACE CARIBBEAN FHD" tvg-logo="http://103.176.90.118/picons/logos/france/TRACE-CARIBBEAN.png" group-title="OS",FR| TRACE CARIBBEAN FHD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/506493
+#EXTINF:-1 tvg-id="SeriesPlus.ca" tvg-name="CA| SERIES PLUS HD" tvg-logo="http://103.176.90.118/picons/logos/USA/SERIES-PLUS.png" group-title="OS",CA| SERIES PLUS HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/177306
+#EXTINF:-1 tvg-id="SuperEcran.ca" tvg-name="CA| SUPER ECRAN 1 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/SUPER-ECRAN-1.png" group-title="OS",CA| SUPER ECRAN 1 HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/177307
+#EXTINF:-1 tvg-id="SuperEcran2.ca" tvg-name="CA| SUPER ECRAN 2 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/SUPER-ECRAN-2.png" group-title="OS",CA| SUPER ECRAN 2 HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/177308
+#EXTINF:-1 tvg-id="SuperEcran3.ca" tvg-name="CA| SUPER ECRAN 3 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/SUPER-ECRAN-3.png" group-title="OS",CA| SUPER ECRAN 3 HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/177309
+#EXTINF:-1 tvg-id="SuperEcran4.ca" tvg-name="CA| SUPER ECRAN 4 HD" tvg-logo="http://103.176.90.118/picons/logos/USA/SUPER-ECRAN-4.png" group-title="OS",CA| SUPER ECRAN 4 HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/177310
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="CA| TVA HULL HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVA.png" group-title="OS",CA| TVA HULL HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/235897
+#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="CA| TVA MONTREAL HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVA.png" group-title="OS",CA| TVA MONTREAL HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/177316
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="CA| TVA QUEBEC CITY HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVA.png" group-title="OS",CA| TVA QUEBEC CITY HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/177317
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="CA| TVA SHERBROOKE HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVA.png" group-title="OS",CA| TVA SHERBROOKE HD
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/1467207
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR| FRANCE 2 4K" tvg-logo="http://103.176.90.118/picons/logos/france/FRANCE2FHD.png" group-title="OS",FR| FRANCE 2 4K
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/526152
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR| FRANCE 3 4K" tvg-logo="http://103.176.90.118/picons/logos/france/FRANCE3FHD.png" group-title="OS",FR| FRANCE 3 4K
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/526151
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR| FRANCE 4 4K" tvg-logo="http://103.176.90.118/picons/logos/france/FRANCE4FHD.png" group-title="OS",FR| FRANCE 4 4K
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/526150
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR| FRANCE 5 4K" tvg-logo="http://103.176.90.118/picons/logos/france/FRANCE5FHD.png" group-title="OS",FR| FRANCE 5 4K
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/526149
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR| M6 4K" tvg-logo="http://103.176.90.118/picons/logos/france/M6.png" group-title="OS",FR| M6 4K
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/526148
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 1" tvg-logo="http://103.176.90.118/picons/logos/canalplussporthd.png" group-title="OS",AFR| CANAL+ SPORT 1
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/355923
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 2" tvg-logo="http://103.176.90.118/picons/logos/canalplussport2hd.png" group-title="OS",AFR| CANAL+ SPORT 2
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/355924
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 3" tvg-logo="http://103.176.90.118/picons/logos/canalplussport3hd.png" group-title="OS",AFR| CANAL+ SPORT 3
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/355925
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 4" tvg-logo="http://103.176.90.118/picons/logos/canalplussport4hd.png" group-title="OS",AFR| CANAL+ SPORT 4
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/355926
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ SPORT 5" tvg-logo="http://103.176.90.118/picons/logos/canalplussporthd.png" group-title="OS",AFR| CANAL+ SPORT 5
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/355927
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ ACTION OUEST" tvg-logo="http://103.176.90.118/picons/logos/canalplus.png" group-title="OS",AFR| CANAL+ ACTION OUEST
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/355916
+#EXTINF:-1 tvg-id="CanalPlusCentre.bj" tvg-name="AFR| CANAL+ CENTR" tvg-logo="http://103.176.90.118/picons/logos/canalplus.png" group-title="OS",AFR| CANAL+ CENTR
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/355917
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ CINEMA OUEST" tvg-logo="http://103.176.90.118/picons/logos/canalpluscinema.png" group-title="OS",AFR| CANAL+ CINEMA OUEST
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/355918
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ COMEDIE OUEST" tvg-logo="http://103.176.90.118/picons/logos/canalplus.png" group-title="OS",AFR| CANAL+ COMEDIE OUEST
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/355919
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ ELLES OUEST" tvg-logo="http://103.176.90.118/picons/logos/canalplus.png" group-title="OS",AFR| CANAL+ ELLES OUEST
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/355920
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL+ FAMILY OUEST" tvg-logo="http://103.176.90.118/picons/logos/canalplusfamily.png" group-title="OS",AFR| CANAL+ FAMILY OUEST
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/355921
+#EXTINF:-1 tvg-id="CanalPlusQuest.bj" tvg-name="AFR| CANAL+ POP OUEST" tvg-logo="http://103.176.90.118/picons/logos/canalplus.png" group-title="OS",AFR| CANAL+ POP OUEST
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/355922
+#EXTINF:-1 tvg-id="" tvg-name="AFR| BEIN SPORTS 1" tvg-logo="http://103.176.90.118/picons/logos/beinsports1.png" group-title="OS",AFR| BEIN SPORTS 1
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806718
+#EXTINF:-1 tvg-id="" tvg-name="AFR| BEIN SPORTS 2" tvg-logo="http://103.176.90.118/picons/logos/beinsports2.png" group-title="OS",AFR| BEIN SPORTS 2
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806717
+#EXTINF:-1 tvg-id="" tvg-name="AFR| BEIN SPORTS 3" tvg-logo="http://103.176.90.118/picons/logos/beinsports3.png" group-title="OS",AFR| BEIN SPORTS 3
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806716
+#EXTINF:-1 tvg-id="" tvg-name="AFR| CANAL SPORT 1" tvg-logo="http://103.176.90.118/picons/logos/sport1.png" group-title="OS",AFR| CANAL SPORT 1
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806715
+#EXTINF:-1 tvg-id="" tvg-name="AFR| C+ ACTION" tvg-logo="http://103.176.90.118/piconsnew/canalplusaction.png" group-title="OS",AFR| C+ ACTION
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806714
+#EXTINF:-1 tvg-id="" tvg-name="AFR| C+ PREMIER" tvg-logo="http://103.176.90.118/piconsnew/canalpluspremiumhd.png" group-title="OS",AFR| C+ PREMIER
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806713
+#EXTINF:-1 tvg-id="" tvg-name="AFR| C+ FRISSON" tvg-logo="http://103.176.90.118/picons/logos/frisson.jpg" group-title="OS",AFR| C+ FRISSON
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806712
+#EXTINF:-1 tvg-id="" tvg-name="AFR| C+ PREMIERE OUEST" tvg-logo="http://103.176.90.118/piconsnew/canalpluspremiumhd.png" group-title="OS",AFR| C+ PREMIERE OUEST
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806711
+#EXTINF:-1 tvg-id="" tvg-name="AFR| C+ PREMIERE CENTRE" tvg-logo="http://103.176.90.118/piconsnew/canalpluspremiumhd.png" group-title="OS",AFR| C+ PREMIERE CENTRE
+http://line.linehunt.org:80/7cb259ea28/e7fc0b0da703/806710
